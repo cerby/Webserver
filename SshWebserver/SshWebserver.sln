@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SshWebserver", "SshWebserver\SshWebserver.csproj", "{5D9A573D-CBD2-474C-89EE-DAF869C7AA9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4480D559-DD25-4E56-A951-A2251008BE57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9A573D-CBD2-474C-89EE-DAF869C7AA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9A573D-CBD2-474C-89EE-DAF869C7AA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9A573D-CBD2-474C-89EE-DAF869C7AA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9A573D-CBD2-474C-89EE-DAF869C7AA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC581C96-0B84-4358-90C8-D52EDF352458}
+	EndGlobalSection
+EndGlobal

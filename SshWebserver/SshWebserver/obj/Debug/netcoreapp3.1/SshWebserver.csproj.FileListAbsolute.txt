@@ -1,0 +1,16 @@
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\bin\Debug\netcoreapp3.1\SshWebserver.exe
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\obj\Debug\netcoreapp3.1\SshWebserver.AssemblyInfoInputs.cache
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\obj\Debug\netcoreapp3.1\SshWebserver.AssemblyInfo.cs
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\obj\Debug\netcoreapp3.1\SshWebserver.csproj.CoreCompileInputs.cache
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\bin\Debug\netcoreapp3.1\SshWebserver.deps.json
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\bin\Debug\netcoreapp3.1\SshWebserver.runtimeconfig.json
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\bin\Debug\netcoreapp3.1\SshWebserver.runtimeconfig.dev.json
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\bin\Debug\netcoreapp3.1\SshWebserver.dll
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\bin\Debug\netcoreapp3.1\SshWebserver.pdb
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\obj\Debug\netcoreapp3.1\SshWebserver.csproj.CopyComplete
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\obj\Debug\netcoreapp3.1\SshWebserver.dll
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\obj\Debug\netcoreapp3.1\SshWebserver.pdb
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\obj\Debug\netcoreapp3.1\SshWebserver.genruntimeconfig.cache
+C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\obj\Debug\netcoreapp3.1\SshWebserver.csprojAssemblyReference.cache
