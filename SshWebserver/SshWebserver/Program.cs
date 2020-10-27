@@ -29,9 +29,9 @@ namespace SshWebserver
             List<string> loglines = new List<string>();
             try
             {
-                //ConnectAndDownload(privatekeylocalfilepath, username, hostname2, pathremotefile, "accesslogcombined.log");
-                //ConnectAndDownload(privatekeylocalfilepath, username, hostname, pathremotefile2, "accesslogcombined2.log");
-                //ConnectAndDownload(privatekeyamazon, usernameamazon, hostname3, pathremotefileamazon, "accesslogcombined3.log");
+                ConnectAndDownload(privatekeylocalfilepath, username, hostname2, pathremotefile, "accesslogcombined.log");
+                ConnectAndDownload(privatekeylocalfilepath, username, hostname, pathremotefile2, "accesslogcombined2.log");
+                ConnectAndDownload(privatekeyamazon, usernameamazon, hostname3, pathremotefileamazon, "accesslogcombined3.log");
 
             }
             catch (Exception e)

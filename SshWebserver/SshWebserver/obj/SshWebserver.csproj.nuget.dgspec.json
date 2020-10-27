@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cerbe\\source\\repos\\SshWebserver\\SshWebserver\\SshWebserver.csproj": {}
+    "C:\\Users\\cerbe\\Documents\\GitHub\\Webserver\\SshWebserver\\SshWebserver\\SshWebserver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cerbe\\source\\repos\\SshWebserver\\SshWebserver\\SshWebserver.csproj": {
+    "C:\\Users\\cerbe\\Documents\\GitHub\\Webserver\\SshWebserver\\SshWebserver\\SshWebserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cerbe\\source\\repos\\SshWebserver\\SshWebserver\\SshWebserver.csproj",
+        "projectUniqueName": "C:\\Users\\cerbe\\Documents\\GitHub\\Webserver\\SshWebserver\\SshWebserver\\SshWebserver.csproj",
         "projectName": "SshWebserver",
-        "projectPath": "C:\\Users\\cerbe\\source\\repos\\SshWebserver\\SshWebserver\\SshWebserver.csproj",
+        "projectPath": "C:\\Users\\cerbe\\Documents\\GitHub\\Webserver\\SshWebserver\\SshWebserver\\SshWebserver.csproj",
         "packagesPath": "C:\\Users\\cerbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cerbe\\source\\repos\\SshWebserver\\SshWebserver\\obj\\",
+        "outputPath": "C:\\Users\\cerbe\\Documents\\GitHub\\Webserver\\SshWebserver\\SshWebserver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cerbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
