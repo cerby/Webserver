@@ -17,10 +17,9 @@ namespace SshWebserver
             string hostname = "178.62.16.93";
             string hostname2 = "159.89.97.41";
             string hostname3 = "ec2-3-16-67-223.us-east-2.compute.amazonaws.com";
-            //string password = "bAu60Lg52zk8zx6N";
             //int port = 22;
-            string privatekeylocalfilepath = @"C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\id_ed25519";
-            string privatekeyamazon = @"C:\Users\cerbe\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\ubuntu\.ssh\cerby.pem";
+            string privatekeylocalfilepath = @"C:\Users\cerbe\source\repos\SshWebserver\SshWebserver\";
+            string privatekeyamazon = @"C:\Users\cerbe\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\ubuntu\.ssh\";
             string pathremotefile = "/var/log/nginx/accesslogcombined.log";
             string pathremotefile2 = "/var/log/nginx/accesslogcombined2.log";
             string pathremotefileamazon = "/var/log/nginx/accesslogcombined3.log";
